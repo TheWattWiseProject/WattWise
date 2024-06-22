@@ -67,7 +67,7 @@
     "uniqCompNum": 75,
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
